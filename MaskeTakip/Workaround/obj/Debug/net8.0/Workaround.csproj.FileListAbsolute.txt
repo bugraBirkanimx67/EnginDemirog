@@ -1,0 +1,15 @@
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.exe
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.deps.json
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.runtimeconfig.json
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.dll
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.pdb
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfo.cs
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.sourcelink.json
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.dll
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\refint\Workaround.dll
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.pdb
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.genruntimeconfig.cache
+C:\Users\bugra\source\repos\MaskeTakip\Workaround\obj\Debug\net8.0\ref\Workaround.dll

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4FDB5-ADBD-41CA-867B-01F8BA355AB1}|Workaround\\Workaround.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E4FDB5-ADBD-41CA-867B-01F8BA355AB1}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\concreate\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\concreate\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\concreate\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\concreate\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\concreate\\foreingermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\concreate\\foreingermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0C1B43-D798-46EB-9EB6-2DB952B06575}|Entities\\Entities.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\entities\\concreate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0C1B43-D798-46EB-9EB6-2DB952B06575}|Entities\\Entities.csproj|solutionrelative:entities\\concreate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4FDB5-ADBD-41CA-867B-01F8BA355AB1}|Workaround\\Workaround.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\workaround\\workaround.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1E4FDB5-ADBD-41CA-867B-01F8BA355AB1}|Workaround\\Workaround.csproj|solutionrelative:workaround\\workaround.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\buisness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\buisness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|c:\\users\\bugra\\source\\repos\\masketakip\\buisness\\connected services\\mernisservicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50168FD-426B-439D-B748-252E4EE11707}|Buisness\\Buisness.csproj|solutionrelative:buisness\\connected services\\mernisservicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Workaround",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+              "RelativeDocumentMoniker": "Workaround\\Workaround.csproj",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+              "RelativeToolTip": "Workaround\\Workaround.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T09:44:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "Buisness\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "RelativeToolTip": "Buisness\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:46:57.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:14:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Entities\\Concreate\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concreate\\Person.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Entities\\Concreate\\Person.cs",
+              "RelativeToolTip": "Entities\\Concreate\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:38:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Buisness.csproj",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Buisness.csproj",
+              "RelativeDocumentMoniker": "Buisness\\Buisness.csproj",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Buisness.csproj",
+              "RelativeToolTip": "Buisness\\Buisness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T16:55:36.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Buisness\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Buisness\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:06:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Foreingermanager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\Foreingermanager.cs",
+              "RelativeDocumentMoniker": "Buisness\\Concreate\\Foreingermanager.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\Foreingermanager.cs",
+              "RelativeToolTip": "Buisness\\Concreate\\Foreingermanager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:02:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Buisness\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Buisness\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:53:17.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\PttManager.cs",
+              "RelativeDocumentMoniker": "Buisness\\Concreate\\PttManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\PttManager.cs",
+              "RelativeToolTip": "Buisness\\Concreate\\PttManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:26:55.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Buisness\\Concreate\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\MaskeTakip\\Buisness\\Concreate\\PersonManager.cs",
+              "RelativeToolTip": "Buisness\\Concreate\\PersonManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:54:47.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
